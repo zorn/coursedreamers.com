@@ -1,0 +1,17 @@
+baseURL = 'https://coursedreamers.org/'
+languageCode = 'en-us'
+title = 'Course Dreamers'
+theme = "paper"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
