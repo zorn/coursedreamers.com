@@ -1,4 +1,4 @@
-baseURL = 'https://coursedreamers.org/'
+baseURL = 'https://coursedreamers.com/'
 languageCode = 'en-us'
 title = 'Course Dreamers'
 theme = "paper"
