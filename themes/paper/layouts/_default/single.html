@@ -37,7 +37,7 @@
   <!-- Post Nav -->
   {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
   {{ if and (gt (len $pages) 1) (in $pages . ) }}
-  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%] mb-10">
     {{ with $pages.Next . }}
     <a
       class="flex w-1/2 items-center rounded-l-md p-6 pr-3 no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
@@ -54,6 +54,8 @@
     {{ end }}
   </nav>
   {{ end }}
+
+  <script async data-uid="edb9bec0e4" src="https://course-dreamers.ck.page/edb9bec0e4/index.js"></script>
 
   <!-- Disqus -->
   {{ if and site.DisqusShortname (not (eq .Params.comments false)) }}
