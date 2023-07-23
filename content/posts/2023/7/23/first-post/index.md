@@ -1,6 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-07-23T13:00:00-04:00
+draft: true
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
