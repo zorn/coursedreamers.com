@@ -8,7 +8,7 @@ next: Watch some other videos on video creation tips.
 promise: After reading this post you'll have some actionable ideas on avoiding first-time camera jitters.
 ---
 
-While browning the community forum of Teachable, I spotted [this post](https://community.teachable.com/c/general-dicussion/i-hit-a-wall) from Benito, a first-time course author, who was about halfway through recording his course content but feeling a little stressed out about the camera.
+While browsing the community forum of Teachable, I spotted [this post](https://community.teachable.com/c/general-dicussion/i-hit-a-wall) from Benito, a first-time course author, who was about halfway through recording his course content but feeling a little stressed out about the camera.
 
 > I am almost halfway through my course and I despise this camera. The last thing I want to do when I set time aside to work is create another video or open the video editing app. It makes my stomach nauseous just thinking about it! Is this normal? If so, how do I overcome this?
 
