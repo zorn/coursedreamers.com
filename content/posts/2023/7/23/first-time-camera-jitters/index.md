@@ -44,7 +44,7 @@ There is also some relevant content in Jeff Delaney's video on [how his producti
 
 At the end of the day, try to give yourself some slack and just keep working at it. The creative process and finding your skills is something that happens with practice.
 
-See also: [Ira Glass on The Creative Process](https://www.youtube.com/watch?v=GHrmKL2XKcE)
+See also: [Ira Glass on The Creative Process](https://www.youtube.com/watch?v=X2wLP0izeJE)
 
 ***
 
