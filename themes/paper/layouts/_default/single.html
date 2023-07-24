@@ -55,7 +55,11 @@
   </nav>
   {{ end }}
 
+  {{ if or (eq .Title "About") (eq .Title "Contact") }}
+  <!-- skipping newsletter sign up form-->
+  {{else}}
   <script async data-uid="edb9bec0e4" src="https://course-dreamers.ck.page/edb9bec0e4/index.js"></script>
+  {{ end }}
 
   <!-- Disqus -->
   {{ if and site.DisqusShortname (not (eq .Params.comments false)) }}
