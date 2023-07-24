@@ -1,22 +1,13 @@
 ---
 title: "About"
-date: 2023-06-14T21:17:20-04:00
+date: 2023-07-24T08:00:00-04:00
+description: Teaching and building courses can be an extremely rewarding extension of your programming career -- but it's a challenging skill like any other. Course Dreamer aims to help you on that path to producing loved and successful courses for your students
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+My name is Michael Zornek ([personal website](https://mikezornek.com/)), and I am a developer and teacher from the suburbs of Philadelphia, PA.
 
-Hugo makes use of a variety of open source projects including:
+Course Dreamers is a new blog where I share my research, observations, and links regarding the work of programmers and technically-minded folks building online courses, some for the first time.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+I have taught in various forms across my career, including onsite corporate workshops for iOS development (at Amazon, Google, and TripAdvisor) and as an adjust professor at Drexel University teaching modern web design (for the time, back in 2004).
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Teaching and building courses can be an extremely rewarding extension of your programming career -- but it's a challenging skill like any other. Course Dreamer aims to help you on that path to producing loved and successful courses for your students.
