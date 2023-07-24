@@ -1,5 +1,5 @@
 ---
-title: "Getting Over First-Time Camera Jitters"
+title: "Getting Over First-Time Camera Jitters as a Course Author"
 date: 2023-07-23T17:57:23-04:00
 description: A few actionable ideas on getting over your fear of the camera and how to lessen the need for the camera for first-time course authors. 
 pain: First-time course author is nervous and unhappy with their early recorded screen presence.
