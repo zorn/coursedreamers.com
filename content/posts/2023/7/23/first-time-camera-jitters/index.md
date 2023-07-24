@@ -2,10 +2,10 @@
 title: "Getting Over First-Time Camera Jitters as a Course Author"
 date: 2023-07-23T17:57:23-04:00
 description: A few actionable ideas on getting over your fear of the camera and how to lessen the need for the camera for first-time course authors. 
-pain: First-time course author is nervous and unhappy with their early recorded screen presence.
-fix: Try alternate recording options to lessen the "live performance" and instead record something more scripted. Record yourself and your performance in such as way that you don't need to capture perfect long takes.
-next: watch some other videos on video creation
-promise: After reading this post and following up on the linked resources, you'll have some actionable ideas on avoiding first-time camera jitters.
+pain: First-time course author is nervous and unhappy with the act of recording themselves on camera.
+fix: Try alternate recording options to lessen the need for a "live performance" and instead record something more scripted or audio only. Record yourself and your performance in such as way that you don't need to capture perfect long takes.
+next: Watch some other videos on video creation tips.
+promise: After reading this post you'll have some actionable ideas on avoiding first-time camera jitters.
 ---
 
 While browning the community forum of Teachable, I spotted [this post](https://community.teachable.com/c/general-dicussion/i-hit-a-wall) from Benito, a first-time course author, who was about halfway through recording his course content but feeling a little stressed out about the camera.
