@@ -7,7 +7,7 @@
 
 To make a new post:
 
-    hugo new posts/2023/7/23/first-time-camera-jitters/index.md
+    hugo new posts/2023/7/28/course-thoughts-fireship-svelte/index.md
 
 ## Theme
 
