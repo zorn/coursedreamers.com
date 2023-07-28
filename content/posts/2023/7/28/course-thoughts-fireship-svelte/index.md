@@ -98,9 +98,9 @@ There is a search box on the Fireship site, but it is site-scoped and not course
 
 ## 💡 Idea: More direct GitHub "fix a typo" links.
 
-While I appreciate and took advantage of fixing typos on GitHub, no UI is provided on the site to suggest this path. I only found out the repo was on GitHub when I stumbled upon it afterward.
+While I appreciate and took advantage of fixing typos on GitHub, no UI is provided on the site to suggest this path (it is on other pages but not within the course content).
 
-It would be cool if each page in the course had a link at the bottom that directs you to that file in the GitHub repo so people could easily offer typo fixes or note additions.
+It would be cool if each page in the course had a link at the bottom that directs you to that specific file in the GitHub repo so people could easily offer typo fixes or note additions.
 
 ## 💡 Idea: More direct Discord discussion areas.
 
