@@ -52,6 +52,10 @@ Overall I found the notes and code snippets to be too simple. For example, somet
 
 > Aside: Repetition of concepts is key to successful courses. In my own workshop work, each unit was a mix of brief front-of-the-class concept introductions, with me speaking and slide visuals, then the students read through the book chapter, typing out each project addition. That repetition of **hearing it**, **reading it** and **typing it** was a principal design pattern for how we wanted to enable student success.
 
+## 👎 Navigation links are in suboptimal position.
+
+Update (August 11, 2023): I ended up working through another class on Fireship this week and it had more descriptive notes. Unfortunately because the quiz and next lesson buttons live above the notes I found myself missing some of the notes. I'd probably move those buttons to be below the notes.
+
 ## 🤷‍♂️ The videos are fast. Too fast?
 
 Matching the style of the YouTube channel, the topic videos are short and fast. Most with a runtime of 2-3 minutes. I watched the videos multiple times, once to get an overview of what we were doing and then a second or third time, pausing often as I typed out the working project to follow along.
