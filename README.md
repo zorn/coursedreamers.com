@@ -7,7 +7,7 @@
 
 To make a new post:
 
-    hugo new posts/2023/7/28/course-thoughts-fireship-svelte/index.md
+    hugo new posts/2023/8/11/link-presenting-code-in-keynote/index.md
 
 ## Theme
 
