@@ -7,7 +7,7 @@
 
 To make a new post:
 
-    hugo new posts/2023/8/11/link-presenting-code-in-keynote/index.md
+    hugo new posts/2023/8/11/freecodecamp-start-youtube-channel/index.md
 
 ## Theme
 
