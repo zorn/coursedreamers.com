@@ -7,7 +7,7 @@
 
 To make a new post:
 
-    hugo new posts/2023/8/15/keeping-student-attention/index.md
+    hugo new posts/2023/8/29/game-design-and-regular-feedback/index.md
 
 ## Theme
 
