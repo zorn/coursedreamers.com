@@ -1,15 +1,16 @@
 ---
 title: "Your Course Needs Regular, Interactive Feedback Loops To Keep Students Out of Tutorial Hell"
 date: 2023-08-30T17:23:12-04:00
+description: Ensure your course is NOT just about content consumption but instead sprinkled with various points of action. Specifically, things that can help a student verify their comprehension of the materials and spaces for them to stretch their creative muscles.
 pain: helping students avoid deceptive confidence via too much content consumption and not enough hands-on learning 
 fix: how to adjust your curriculum to provide regular, helpful feedback loops to help students verify their understanding and creative potential
-next: follow up with an example of how freeCodeCamp structures it's mini-boss projects, podcast link?
-promise: in this post, I'll show you a varied list of options to create feedback loops in your courses
+next: follow up with an example of how freeCodeCamp structures its mini-boss projects, podcast link?
+promise: In this post, I'll show you various options to create feedback loops in your courses.
 ---
 
-Tutorial Hell is that phase in a student's journey where they complete courses and online examples, but when it comes time for them to do something independently, they freeze. They'll sit there, starting at an empty file inside a freshly generated project template, and they don't know what to do. They've spent months consuming content, and it felt like they were learning, but now, in the moment of creation, they are frozen.
+Tutorial Hell is that phase in a student's journey where they complete courses and online examples, but when it comes time for them to do something independently, they freeze. They'll sit there, starting at an empty file inside a freshly generated project template, and they don't know what to do. They've spent **months consuming content**, and it felt like they were learning, but now, in the moment of creation, they are frozen.
 
-The hard truth I share with my students is that no matter how good the video, the lecture, or the book is, you will not learn how to program by consuming. You are not Neo, and this is not the Matrix. The only way you will learn is by doing.
+The hard truth I share with my students is that no matter how good the video, the lecture, or the book is, you will not learn how to program by consuming. You are not Neo, and this is not the Matrix. The only way you will actually learn is by doing.
 
 From the book [Art & Fear][1]:
 
@@ -17,7 +18,7 @@ From the book [Art & Fear][1]:
 
 [1]: https://www.amazon.com/exec/obidos/ASIN/0961454733/
 
-So, as course designers, what can we do to **help our students avoid this paralysis?** My suggestion is to ensure your course is NOT just about content consumption but instead sprinkled with various points of action. Specifically, things that can help a student verify their comprehension of the materials and spaces for them to stretch their creative muscles.
+So, as course designers, what can we do to **help our students avoid tutorial hell paralysis?** My suggestion is to ensure your course is NOT just about content consumption but instead sprinkled with various points of action. Specifically, things that can help a student verify their comprehension of the materials and spaces for them to stretch their creative muscles.
 
 ## Verify student comprehension via automated feedback loops.
 
@@ -27,7 +28,7 @@ Now imagine an online course where you finish module 1, and before moving on to 
 
 Perhaps later, an inline (or external) programming assignment is provided. In a project cloned from GitHub, you are told to run the tests to observe failure and then instructed to make them all pass. More confidence has been gained, and we are getting closer to a more realistic work environment.
 
-Aside: Ideally, it can be helpful if this kind of code editor / test run were integrated into your course platform (particularly for those very fresh to programming), but this is not a hard requirement. You can get pretty far with external form tooling. Additionally, there is a point where you want the student to work in a realistic editing environment. You need them to experience the typos, build errors, and autocomplete menus like "real programmers" do.
+Aside: Ideally, it can be helpful if this kind of code editor / test run were integrated into your course platform (particularly for those very fresh to programming), but this is not a hard requirement. You can get pretty far with external tooling. Additionally, there is a point where you want the student to work in a real editing environment. You need them to experience the typos, build errors, and autocomplete menus like "real programmers" do.
 
 ## Provide empty canvas problems and opportunities for human review.
 
@@ -37,25 +38,25 @@ The website freeCodeCamp has some great examples of student feedback loops. They
 
 ![The detail view of a blank page Certification Project](certification-project-detail.png)
 
-After working through the smaller, hand-held, interactive course modules, freeCodeCamp gives the students a blank-page project where, on their own, they have to solve the stated problem. The platform continues to run automated tests to verify the solution, but the page starts empty. Working through an empty blank page is excellent practice for what these students will face in the real world. To help your students gain authentic confidence, you must allow them to fail, get messy, and learn from their mistakes. I think these kinds of "mini-bosses" (as they describe the design pattern internally) is an excellent approach.
+After working through the smaller, hand-held, interactive course modules, freeCodeCamp gives the students a blank-page project where, on their own, they have to solve the stated problem. The platform continues to run automated tests to verify the solution, but the page starts empty. Working through an empty blank page is excellent practice for what these students will face in the real world. 
 
-When crafting your empty-page projects, I suggest primarily relying on the previously taught concepts, but sprinkling in some adjacent ideas is also helpful. 
+To help your students gain authentic confidence, you must allow them to fail, get messy, and learn from their mistakes. These kinds of "mini-bosses" (as they describe the design pattern internally) are an excellent approach.
 
-For example, lets imagine you just taught people about using the [Elixir Enum module](https://hexdocs.pm/elixir/Enum.html) to `map/2` a list into something else. In your student problem, maybe nudge the student towards adjacent functions like `filter/2`. Perhaps you can describe the problem without directly linking to the specific new function docs or only provide the link in a hidden hint (if needed).
+When crafting your empty-page projects, I suggest primarily relying on the previously taught concepts but sprinkling in some adjacent ideas. For example, imagine you just taught people about using the [Elixir Enum module](https://hexdocs.pm/elixir/Enum.html) to `map/2` a list into something else. In your student problem, maybe nudge the student towards adjacent functions like `filter/2`. Perhaps you can describe the problem without directly linking to the specific new function docs or only provide the link in a hidden hint (if needed).
 
 The goal here is twofold. One, you want the students to be able to use their creativity to fill in the blanks. Two, you want the students to get comfortable browsing the language documentation to find their answers. 
 
 **Teaching a student how to find answers is arguably more critical than the raw facts of your course.**
 
-If you offer your course alongside your personal teaching availability,  consider a workflow where the student submits these projects as homework for manual critique. Even with a working solution, encourage the student to attach questions about code that works, but it may be more clunky than it could be.
+If you offer your course alongside personal teaching availability, consider a workflow where the student submits these projects as homework for manual critique. Even with a working solution, encourage the student to attach questions about code that works, but it may be more clunky than it could be.
 
-In a non-beginner space, you might even encourage students to share solutions with each other. It can be helpful for a single student to observe how others students solved the same problem and could even kickoff a productive discussion of style amongst the students.
+In a non-beginner space, you might even encourage students to share solutions with each other. It can be helpful for a single student to observe how other students solved the same problem and kick off a productive discussion of style amongst the students.
 
 ***
 
 Hopefully, this post helped you brainstorm some non-consumption ideas for your course. 
 
-If you want to check more emotion on the topic of tutorial hell, you can [find lots of emotional discussions on Reddit][2] from other students.
+If you want to research the topic of "tutorial hell," you can [find lots of emotional discussions on Reddit][2].
 
 [2]: https://www.reddit.com/r/learnprogramming/search/?q=tutorial%20hell
 
