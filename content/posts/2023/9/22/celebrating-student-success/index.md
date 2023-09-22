@@ -2,6 +2,7 @@
 title: "Your Student Finished the Course; Now What?"
 date: 2023-09-22T12:05:58-04:00
 description: In the moment of student success, there are great opportunities for you to celebrate with them, guide them, and show them how to give back to the community.
+aliases: /posts/2023/9/13/celebrating-student-success/
 pain: A student who successfully finishes your course is a tremendous opportunity to celebrate student success and fuel your promotional flywheel, but sadly, many course authors do not give course offboarding much time during the course design process.  
 fix: A few ideas on how to build on student success in your course's design.
 next: Work on adding these ideas. Work backward from previous students who recently saw success to compensate for lost time.
